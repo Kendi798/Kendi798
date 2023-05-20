@@ -1,4 +1,5 @@
-<img src="https://img.freepik.com/free-photo/online-cloud-data-storage-concept-cloudscape-digital-online-server-global-network-business-web-database-backup-computer-private-infrastructure-technology_90220-1345.jpg?w=740&t=st=1684568451~exp=1684569051~hmac=91ad5ab7d50a2c3bfba5bc1c69b27efdeddca5f4397d7613e8fa774a3e7980dc" alt="MasterHead" style="width: 100%;">
+<img src="https://img.freepik.com/free-photo/online-cloud-data-storage-concept-cloudscape-digital-online-server-global-network-business-web-database-backup-computer-private-infrastructure-technology_90220-1345.jpg?w=740&t=st=1684568451~exp=1684569051~hmac=91ad5ab7d50a2c3bfba5bc1c69b27efdeddca5f4397d7613e8fa774a3e7980dc" alt="MasterHead" style="width: 100%; height: 350px;">
+
 
 <h1 align="center">Hi 👋, I'm Lisa Kagendo</h1>
 <h3 align="center">A passionate Data Analyst | Data Scientist from Kenya</h3>
