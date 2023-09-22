@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kendi798.github.io/kendi.github.io/](https://kendi798.github.io/kendi.github.io/)
 
-- 💬 Ask me about **R programming,Python,**
+- 💬 Ask me about **R programming,Python,Advanced Excel**
 
 - 📫 How to reach me **icarren98@gmail.com**
 
