@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Lisa Kagendo</h1>
 <h3 align="center">A passionate Data Analyst | Data Scientist from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1016670/screenshots/2508353/too-much-thinking.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1016670/screenshots/2508353/too-much-thinking.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kendi798&label=Profile%20views&color=0e75b6&style=flat" alt="kendi798" /> </p>
