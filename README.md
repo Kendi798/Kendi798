@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Lisa Kagendo</h1>
 <h3 align="center">A passionate Data Analyst | Data Scientist from Kenya</h3>
-<img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Coding" width="400" align="right">
+<img src="https://cdn.dribbble.com/users/1016670/screenshots/2508353/too-much-thinking.gif" alt="Coding" width="400" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kendi798&label=Profile%20views&color=0e75b6&style=flat" alt="kendi798" /> </p>
