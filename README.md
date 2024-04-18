@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Lisa Kagendo</h1>
 <h3 align="center">A passionate Data Analyst | Data Scientist from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1016670/screenshots/2508353/too-much-thinking.gif">
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/nuxtocat/">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kendi798&label=Profile%20views&color=0e75b6&style=flat" alt="kendi798" /> </p>
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kendi798.github.io/kendi.github.io/](https://kendi798.github.io/kendi.github.io/)
 
-- 💬 Ask me about **R programming,Python,Advanced Excel**
+- 💬 Ask me about **Python,Advanced Excel,Power Bi**
 
 - 📫 How to reach me **icarren98@gmail.com**
 
