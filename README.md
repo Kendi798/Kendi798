@@ -1,12 +1,10 @@
-<img 
-  src="ai-robotic-arm-interacting-with-data-visualization.jpg" 
-  alt="Fusion of Artificial Intelligence and Finance" 
-  style="width: 100%; max-height: 250px; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" >
-
-
-
-
-
+<div style="width: 100%; height: 175px; overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+  <img 
+    src="ai-robotic-arm-interacting-with-data-visualization.jpg" 
+    alt="Fusion of Artificial Intelligence and Finance" 
+    style="width: 100%; height: 100%; object-fit: cover;" 
+  >
+</div>
 <h1 align="center">Hi 👋, I'm Lisa Kagendo</h1>
 <h3 align="center">A passionate Data Analyst | Data Scientist from Kenya</h3>
 <img src="https://cdn.dribbble.com/users/1016670/screenshots/2508353/too-much-thinking.gif" alt="Coding" width="400" align="right">
