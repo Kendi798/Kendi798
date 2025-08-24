@@ -1,7 +1,8 @@
 <img 
-  src="https://img.freepik.com/free-ai-image/ai-robotic-arm-interacting-with-data-visualization_1238274-46348.jpg" 
+  src="ai-robotic-arm-interacting-with-data-visualization.jpg" 
   alt="Fusion of Artificial Intelligence and Finance" 
-  style="width: 100%; height: 350px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" >
+  style="width: 100%; max-height: 250px; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" >
+
 
 
 
